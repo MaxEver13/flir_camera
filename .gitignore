@@ -1,0 +1,5 @@
+#This is a gitignore file
+
+#仓库中所有跟build同名的文件夹都不会上传仓库
+build
+.vscode
